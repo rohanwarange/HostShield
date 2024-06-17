@@ -1,0 +1,6 @@
+EventTime,EventName,ReadOnly,Username,ResourceType,ResourceName,EventSource,AccessKeyId,SourceIPAddress
+15-01-2023 16:58,executequery,FALSE,user1,iam,lambda-function-4,logs.amazonaws.com,ASIARXDSJKYSV3AWZ74Y,81.33.138.49
+15-01-2023 32:15,downloadfile,TRUE,cloudtraillogs,lambda,dynamodb-table-2,iam.amazonaws.com,V2IAZK8X6T0O6G7E31R9,9.154.132.104
+15-01-2023 04:30,deleteobject,FALSE,manager,dynamodb,elasticache-cluster-3,lambda.amazonaws.com,H4IUHDV1DUHT5AF14JTH,89.114.229.71
+15-01-2023 36:45,modifyfilepermissions,TRUE,tester,redshift,dynamodb-table-1,cloudwatch.amazonaws.com,30218,97.17.252.239
+15-01-2023 09:00,deployapplication,TRUE,techsupport,elasticache,iam-role-2,logs.amazonaws.com,56125,231.112.17.102

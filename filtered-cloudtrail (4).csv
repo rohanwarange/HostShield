@@ -1,0 +1,5 @@
+EventTime,EventName,ReadOnly,Username,ResourceType,ResourceName,EventSource,AccessKeyId,SourceIPAddress
+2023-09-17 04:19:47,createlogstream,false,cloudtraillogs,,logs,logs.amazonaws.com,ASIARXDSJKYSTUCTM76P,3.87.175.123
+2023-09-17 04:19:35,updatefunctioncode20150331v2,false,root,,lambda,lambda.amazonaws.com,ASIARXDSJKYSU3FB4DXQ,76.137.104.183
+2023-09-17 04:18:53,createlogstream,false,cloudtraillogs,,logs,logs.amazonaws.com,ASIARXDSJKYS6JK5VENQ,54.198.70.148
+2023-09-17 04:18:50,updatefunctioncode20150331v2,false,root,,lambda,lambda.amazonaws.com,ASIARXDSJKYSU3FB4DXQ,76.137.104.183

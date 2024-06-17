@@ -1,0 +1,5 @@
+taipy
+pandas
+numpy
+flask
+pyarrow

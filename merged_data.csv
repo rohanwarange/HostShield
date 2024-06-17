@@ -1,0 +1,3 @@
+AccessKeyId,Username,EventTime,EventSource,Warning,EventName,get_Count,put_Count,create_Count,set_Count,add_Count,update_Count,modify_Count,change_Count,attach_Count,allocate_Count,assign_Count,associate_Count,User_Rating
+ASIARXDSJKYSV3AWZ74Y,user1,15-01-2023 16:58,logs.amazonaws.com,Outside Working Hours,executequery,0,0,0,0,0,0,0,0,0,0,0,0,0
+56125,techsupport,15-01-2023 09:00,logs.amazonaws.com,Outside Working Hours,deployapplication,0,0,0,0,0,0,0,0,0,0,0,0,0

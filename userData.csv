@@ -1,0 +1,6 @@
+AccessKeyId,EventName,get_Count,put_Count,create_Count,set_Count,add_Count,update_Count,modify_Count,change_Count,attach_Count,allocate_Count,assign_Count,associate_Count,User_Rating
+30218,modifyfilepermissions,0,0,0,0,0,0,1,0,0,0,0,0,2
+56125,deployapplication,0,0,0,0,0,0,0,0,0,0,0,0,0
+ASIARXDSJKYSV3AWZ74Y,executequery,0,0,0,0,0,0,0,0,0,0,0,0,0
+H4IUHDV1DUHT5AF14JTH,deleteobject,0,0,0,0,0,0,0,0,0,0,0,0,0
+V2IAZK8X6T0O6G7E31R9,downloadfile,0,0,0,0,0,0,0,0,0,0,0,0,0
