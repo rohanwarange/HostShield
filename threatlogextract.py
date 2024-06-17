@@ -5,9 +5,9 @@ import json
 from pytz import timezone
 
 # Specify your AWS credentials directly (replace with your actual credentials)
-aws_access_key_id = 'AKIA22XP4DXY25GWREI6'
-aws_secret_access_key = 'NAGr0c7WEOLjr0+Gci52ItjC63C+FgZiCOCZLvmh'
-aws_region = 'us-west-2'
+aws_access_key_id = 'Acces_key'
+aws_secret_access_key = 'secreate_key'
+aws_region = 'region'
 
 # Initialize AWS clients with specified credentials
 session = boto3.Session(
