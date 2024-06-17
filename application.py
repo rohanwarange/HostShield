@@ -6,12 +6,6 @@ import webbrowser
 from pytz import timezone
 from taipy.gui import Gui, notify
 
-# AWS credentials and configuration
-aws_access_key_id = 'AKIA22XP4DXY25GWREI6'
-aws_secret_access_key = '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'
-aws_region = 'us-west-2'
-bucket_name = 'hostshield-security'
-
 session = boto3.Session(
     aws_access_key_id=aws_access_key_id,
     aws_secret_access_key=aws_secret_access_key,
